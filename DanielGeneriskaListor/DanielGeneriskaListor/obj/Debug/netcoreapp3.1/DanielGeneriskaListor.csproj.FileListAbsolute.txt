@@ -1,0 +1,13 @@
+C:\Users\thwi\source\repos\DanielGeneriskaListor\DanielGeneriskaListor\obj\Debug\netcoreapp3.1\DanielGeneriskaListor.csprojAssemblyReference.cache
+C:\Users\thwi\source\repos\DanielGeneriskaListor\DanielGeneriskaListor\obj\Debug\netcoreapp3.1\DanielGeneriskaListor.AssemblyInfoInputs.cache
+C:\Users\thwi\source\repos\DanielGeneriskaListor\DanielGeneriskaListor\obj\Debug\netcoreapp3.1\DanielGeneriskaListor.AssemblyInfo.cs
+C:\Users\thwi\source\repos\DanielGeneriskaListor\DanielGeneriskaListor\obj\Debug\netcoreapp3.1\DanielGeneriskaListor.csproj.CoreCompileInputs.cache
+C:\Users\thwi\source\repos\DanielGeneriskaListor\DanielGeneriskaListor\bin\Debug\netcoreapp3.1\DanielGeneriskaListor.exe
+C:\Users\thwi\source\repos\DanielGeneriskaListor\DanielGeneriskaListor\bin\Debug\netcoreapp3.1\DanielGeneriskaListor.deps.json
+C:\Users\thwi\source\repos\DanielGeneriskaListor\DanielGeneriskaListor\bin\Debug\netcoreapp3.1\DanielGeneriskaListor.runtimeconfig.json
+C:\Users\thwi\source\repos\DanielGeneriskaListor\DanielGeneriskaListor\bin\Debug\netcoreapp3.1\DanielGeneriskaListor.runtimeconfig.dev.json
+C:\Users\thwi\source\repos\DanielGeneriskaListor\DanielGeneriskaListor\bin\Debug\netcoreapp3.1\DanielGeneriskaListor.dll
+C:\Users\thwi\source\repos\DanielGeneriskaListor\DanielGeneriskaListor\bin\Debug\netcoreapp3.1\DanielGeneriskaListor.pdb
+C:\Users\thwi\source\repos\DanielGeneriskaListor\DanielGeneriskaListor\obj\Debug\netcoreapp3.1\DanielGeneriskaListor.dll
+C:\Users\thwi\source\repos\DanielGeneriskaListor\DanielGeneriskaListor\obj\Debug\netcoreapp3.1\DanielGeneriskaListor.pdb
+C:\Users\thwi\source\repos\DanielGeneriskaListor\DanielGeneriskaListor\obj\Debug\netcoreapp3.1\DanielGeneriskaListor.genruntimeconfig.cache
